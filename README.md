@@ -1,7 +1,7 @@
 ![logo](https://github.com/M-Saqlain-r/M-Saqlain-r/blob/main/pic.png)
 <h1 align="center">Hi 👋, I'm M.Saqlain</h1>
 <h3 align="center">A passionate frontend developer from Pakistan.</h3>
-<img align="right" alt="loading.." width="400px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FR36S%2Fcomments%2F1c3ncqe%2Fgif_loading_files_update_ark_os_first_before_using%2F&psig=AOvVaw12Rg7S2jStAe7o66rkxsSv&ust=1733402313125000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjFivyQjooDFQAAAAAdAAAAABAd">
+<img align="right" alt="loading.." width="400px" src="https://www.reddit.com/r/R36S/comments/1c3ncqe/gif_loading_files_update_ark_os_first_before_using/#lightbox">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saqlain&label=Profile%20views&color=0e75b6&style=flat" alt="saqlain" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saqlain" alt="saqlain" /></a> </p>
