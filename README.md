@@ -1,4 +1,4 @@
-![logo](https://github.com/M-Saqlain-r/M-Saqlain-r/blob/main/Untitled%20design%20(2).png)
+![logo](https://github.com/M-Saqlain-r/M-Saqlain-r/blob/main/pic.png)
 <h1 align="center">Hi 👋, I'm M.Saqlain</h1>
 <h3 align="center">A passionate frontend developer from Pakistan.</h3>
 
